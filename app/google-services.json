@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427948372088",
+    "project_id": "eduit-9827c",
+    "storage_bucket": "eduit-9827c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427948372088:android:8bc765aed1e989b851fd8d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-4Lm50W2eeEKtCJ4qn7kIz19SLbNMBgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
